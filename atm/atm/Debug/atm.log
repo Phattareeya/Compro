@@ -1,0 +1,26 @@
+﻿Build started 8/13/2020 3:39:57 PM.
+     1>Project "C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\6306021612058\atm\atm\atm.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\atm.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\atm.exe.embed.manifest.res" Debug\atm_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\6306021612058\atm\Debug\atm.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\atm.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\6306021612058\atm\Debug\atm.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\6306021612058\atm\Debug\atm.lib" /MACHINE:X86 Debug\atm.exe.embed.manifest.res
+         Debug\atm.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\atm.exe.embed.manifest" /manifest Debug\atm.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\atm.exe.embed.manifest.res" Debug\atm_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\6306021612058\atm\Debug\atm.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\atm.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\6306021612058\atm\Debug\atm.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\6306021612058\atm\Debug\atm.lib" /MACHINE:X86 Debug\atm.exe.embed.manifest.res
+         Debug\atm.obj
+         atm.vcxproj -> C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\6306021612058\atm\Debug\atm.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\atm.unsuccessfulbuild".
+         Touching "Debug\atm.lastbuildstate".
+     1>Done Building Project "C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\6306021612058\atm\atm\atm.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.51
